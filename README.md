@@ -3,5 +3,5 @@ Automated  tool for managing orders
 registered customer
 sign in or sign up
 item in stock
-pending items
+pending items.
 serviced items
