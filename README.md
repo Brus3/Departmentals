@@ -5,3 +5,7 @@ sign in or sign up
 item in stock
 pending items.
 serviced items
+Credit card
+Debit card
+Net banking
+
